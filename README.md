@@ -4,7 +4,11 @@ This README has been written with [GitHub's documentation on README's] (https://
 
 ## About this Project
 
+This notebook contains my coursework and assignments for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. This includes both the weekly assignments and the overall project.
+
 ## Use of this Project
+
+This repository may be of some interest to other students engaged in similar projects around programming for data analytics. Feel free to use whatever you like from it (though if another party has been referenced, I would ask that you likewise cite them).
 
 ## Getting Started
 
@@ -18,7 +22,11 @@ To understand how the workbook has developped to date, please see below a timeli
 
 ## Getting help
 
+Queries about this repository can be directed directly to my GitHub account (NeilTynan).
+
 ## Other References
+
+N/A as of this time.
 
 ## Author
 I am student Atlantic Technological University's Higher Diploma in Data Science.
