@@ -16,6 +16,8 @@ To understand how the workbook has developped to date, please see below a timeli
 
 13/10/2024 - Added three folders, as per assigntment 1: assignments, mywork and project.
 
+13/10/2024 - Added assignment2-weather to Assignments folder
+
 ## Getting help
 
 ## Other References
