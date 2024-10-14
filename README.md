@@ -12,9 +12,9 @@ The workbook is structured in a linear fashion, so reading through it from start
 
 To understand how the workbook has developped to date, please see below a timeline of the work done on the notebook and the material referenced in the course of this work:
 
-13/10/2024 - Created ReadMe and Gitignore file as per course materials for 24-25: 8645 -- COMPUTER INFRASTRUCTURE: w02v03_create_your_repository. Gitignore file generated using the template at Python gitignore template at https://github.com/github/gitignore/blob/main/Python.gitignore, the Windows gitignore template at https://github.com/github/gitignore/blob/main/Global/Windows.gitignore, the MacOS gitignore template at https://github.com/github/gitignore/blob/main/Global/macOS.gitignore and the Linux gitignore template at https://github.com/github/gitignore/blob/main/Global/Linux.gitignore.
-13/10/2024 - Added three folders, as per assigntment 1: assignments, mywork and project.
-13/10/2024 - Added assignment2-weather to Assignments folder and created graph based on weatherreadings1.csv, as per assignment. Websites referenced in graph creation include https://datagy.io/matplotlib-title/ and https://matplotlib.org/stable/gallery/ticks/ticks_too_many.html.
+- 13/10/2024 - Created ReadMe and Gitignore file as per course materials for 24-25: 8645 -- COMPUTER INFRASTRUCTURE: w02v03_create_your_repository. Gitignore file generated using the template at Python gitignore template at https://github.com/github/gitignore/blob/main/Python.gitignore, the Windows gitignore template at https://github.com/github/gitignore/blob/main/Global/Windows.gitignore, the MacOS gitignore template at https://github.com/github/gitignore/blob/main/Global/macOS.gitignore and the Linux gitignore template at https://github.com/github/gitignore/blob/main/Global/Linux.gitignore.
+- 13/10/2024 - Added three folders, as per assigntment 1: assignments, mywork and project.
+- 13/10/2024 - Added assignment2-weather to Assignments folder and created graph based on weatherreadings1.csv, as per assignment. Websites referenced in graph creation include https://datagy.io/matplotlib-title/ and https://matplotlib.org/stable/gallery/ticks/ticks_too_many.html.
 
 ## Getting help
 
