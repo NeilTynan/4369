@@ -1,4 +1,4 @@
-# PROGRAMMING FOR DATA ANALYTICS
+# Programming for Data Analytics
 
 This README has been written with [GitHub's documentation on README's] (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
 
