@@ -19,7 +19,9 @@ To understand how the workbook has developped to date, please see below a timeli
 - 13/10/2024 - Created ReadMe and Gitignore file as per course materials for 24-25: 8645 -- COMPUTER INFRASTRUCTURE: w02v03_create_your_repository. Gitignore file generated using the template at Python gitignore template at https://github.com/github/gitignore/blob/main/Python.gitignore, the Windows gitignore template at https://github.com/github/gitignore/blob/main/Global/Windows.gitignore, the MacOS gitignore template at https://github.com/github/gitignore/blob/main/Global/macOS.gitignore and the Linux gitignore template at https://github.com/github/gitignore/blob/main/Global/Linux.gitignore.
 - 13/10/2024 - Added three folders, as per assigntment 1: assignments, mywork and project.
 - 13/10/2024 - Added assignment2-weather to Assignments folder and created graph based on weatherreadings1.csv, as per assignment. Websites referenced in graph creation include https://datagy.io/matplotlib-title/ and https://matplotlib.org/stable/gallery/ticks/ticks_too_many.html.
-- 18/10/2024 - Added assignment03-pie to Assignement folder and creater graph based on people-1000.csv, as per assignement. Websites referenced in graph creation include: https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html#. 
+- 18/10/2024 - Added assignment03-pie to Assignement folder and creater graph based on people-1000.csv, as per assignement. Websites referenced in graph creation include: https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html#.
+- 21/10/2024 - Redid elements of assignment03-pie. New material referenced includes: https://github.com/andrewbeattycourseware/PFDA-courseware/blob/main/code/topic04-regex/lecture/using%20regex%20in%20pandas.ipynb and https://matplotlib.org/stable/gallery/color/named_colors.html. 
+
 
 ## Getting help
 
