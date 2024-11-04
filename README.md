@@ -21,6 +21,8 @@ To understand how the workbook has developped to date, please see below a timeli
 - 13/10/2024 - Added assignment2-weather to Assignments folder and created graph based on weatherreadings1.csv, as per assignment. Websites referenced in graph creation include https://datagy.io/matplotlib-title/ and https://matplotlib.org/stable/gallery/ticks/ticks_too_many.html.
 - 18/10/2024 - Added assignment03-pie to Assignement folder and creater graph based on people-1000.csv, as per assignement. Websites referenced in graph creation include: https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html#.
 - 21/10/2024 - Redid elements of assignment03-pie. New material referenced includes: https://github.com/andrewbeattycourseware/PFDA-courseware/blob/main/code/topic04-regex/lecture/using%20regex%20in%20pandas.ipynb and https://matplotlib.org/stable/gallery/color/named_colors.html. 
+- 30/10/2024 - Started assignment 5. New materials referenced include: https://thepythoncodingbook.com/2022/12/30/using-python-numpy-to-improve-board-game-strategy-risk/ (how to generate Risk dice rolls).
+- 04/11/2024 - Redid large sections of assignment_5_risk so that the outcomes were more in line with the assigntment. New materials referenced include: https://note.nkmk.me/en/python-numpy-count/ (how to convert dice roll results into a format suitable for plotting).
 
 
 ## Getting help
