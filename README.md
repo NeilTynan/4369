@@ -31,7 +31,8 @@ Queries about this repository can be directed directly to my GitHub account (Nei
 
 ## Other References
 
-N/A as of this time.
+https://docs.python.org/3/library/datetime.html#datetime-objects
+https://www.geeksforgeeks.org/python-pandas-dataframe-fillna-to-replace-null-values-in-dataframe/
 
 ## Author
 I am student Atlantic Technological University's Higher Diploma in Data Science.
