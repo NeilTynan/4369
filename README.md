@@ -23,7 +23,7 @@ To understand how the workbook has developped to date, please see below a timeli
 - 21/10/2024 - Redid elements of assignment03-pie. New material referenced includes: https://github.com/andrewbeattycourseware/PFDA-courseware/blob/main/code/topic04-regex/lecture/using%20regex%20in%20pandas.ipynb and https://matplotlib.org/stable/gallery/color/named_colors.html. 
 - 30/10/2024 - Started assignment 5. New materials referenced include: https://thepythoncodingbook.com/2022/12/30/using-python-numpy-to-improve-board-game-strategy-risk/ (how to generate Risk dice rolls).
 - 04/11/2024 - Redid large sections of assignment_5_risk so that the outcomes were more in line with the assigntment. New materials referenced include: https://note.nkmk.me/en/python-numpy-count/ (how to convert dice roll results into a format suitable for plotting).
-
+- 13/11/2024 - Added assigment_6_Weather.ipynb. New materials referenced include the course materials for week 6 (PFDA6.1 datetime in python and PFDA6.2 manipulating timeseries) and https://docs.python.org/3/library/datetime.html#datetime-objects (attribute references).
 
 ## Getting help
 
@@ -31,8 +31,6 @@ Queries about this repository can be directed directly to my GitHub account (Nei
 
 ## Other References
 
-https://docs.python.org/3/library/datetime.html#datetime-objects
-https://www.geeksforgeeks.org/python-pandas-dataframe-fillna-to-replace-null-values-in-dataframe/
 
 ## Author
 I am student Atlantic Technological University's Higher Diploma in Data Science.
