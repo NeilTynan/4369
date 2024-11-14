@@ -4,7 +4,7 @@ This README has been written with [GitHub's documentation on README's] (https://
 
 ## About this Project
 
-This notebook contains my coursework and assignments for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. This includes both the weekly assignments and the overall project.
+This notebook contains my coursework and assignments for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. It includes both the weekly assignments and the overall project.
 
 ## Use of this Project
 
@@ -33,4 +33,5 @@ Queries about this repository can be directed directly to my GitHub account (Nei
 
 
 ## Author
+
 I am student Atlantic Technological University's Higher Diploma in Data Science.
