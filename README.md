@@ -24,6 +24,7 @@ To understand how the workbook has developped to date, please see below a timeli
 - 30/10/2024 - Started assignment 5. New materials referenced include: https://thepythoncodingbook.com/2022/12/30/using-python-numpy-to-improve-board-game-strategy-risk/ (how to generate Risk dice rolls).
 - 04/11/2024 - Redid large sections of assignment_5_risk so that the outcomes were more in line with the assigntment. New materials referenced include: https://note.nkmk.me/en/python-numpy-count/ (how to convert dice roll results into a format suitable for plotting).
 - 13/11/2024 - Added assigment_6_Weather.ipynb. New materials referenced include the course materials for week 6 (PFDA6.1 datetime in python and PFDA6.2 manipulating timeseries) and https://docs.python.org/3/library/datetime.html#datetime-objects (attribute references).
+- 21/11/2024 - Updated assignment 6 graphs to have different colours to make the data easier to seperate and digest. Please see [here] (https://miro.medium.com/v2/resize:fit:800/1*zm6zVTIEvf9uZ0cE4n0Ogg.png) for the colour chart referenced.
 
 ## Getting help
 
