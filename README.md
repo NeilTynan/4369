@@ -1,10 +1,10 @@
-# Programming for Data Analytics
+# Programming for Data Analytics - Assignments
 
 This README has been written with [GitHub's documentation on README's] (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
 
 ## About this Project
 
-This notebook contains my coursework and assignments for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. It includes both the weekly assignments and the overall project.
+This repository contains my weekly assignments for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. The repository for the big project for 4369 can be found here: https://github.com/NeilTynan/4369_project
 
 ## Use of this Project
 
