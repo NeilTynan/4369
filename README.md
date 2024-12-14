@@ -24,8 +24,9 @@ To understand how the workbook has developped to date, please see below a timeli
 - 30/10/2024 - Started assignment 5. New materials referenced include: https://thepythoncodingbook.com/2022/12/30/using-python-numpy-to-improve-board-game-strategy-risk/ (how to generate Risk dice rolls).
 - 04/11/2024 - Redid large sections of assignment_5_risk so that the outcomes were more in line with the assigntment. New materials referenced include: https://note.nkmk.me/en/python-numpy-count/ (how to convert dice roll results into a format suitable for plotting).
 - 13/11/2024 - Added assigment_6_Weather.ipynb. New materials referenced include the course materials for week 6 (PFDA6.1 datetime in python and PFDA6.2 manipulating timeseries) and https://docs.python.org/3/library/datetime.html#datetime-objects (attribute references).
-- 21/11/2024 - Updated assignment 6 graphs to have different colours to make the data easier to seperate and digest. Please see [here](https://miro.medium.com/v2/resize:fit:800/1*zm6zVTIEvf9uZ0cE4n0Ogg.png) for the colour chart referenced.
+- 21/11/2024 - Updated assignment 6 graphs to have different colours to make the data easier to seperate and digest. Please see [here](https://miro.medium.com/v2/resize:fit:800/1*zm6zVTIEvf9uZ0cE4n0Ogg.png) for the colour chart referenced. Removed Project and MyWork folders and set up seperate repositories for each section, as this approach (seems) to be more in line with the submission format indicated in the Big Project description.
 - 25/11/2024 - Made some readbility edits to the juniper notebooks and ReadMe and started on part 2 of assignment 5.
+- 14/12/2024 - Edited repository name in line with assigment 1 requirments.
 
 ## Getting help
 
@@ -33,6 +34,7 @@ Queries about this repository can be directed directly to my GitHub account (Nei
 
 ## Other References
 
+[Python for Data Analytics, 3E](https://wesmckinney.com/book/) - Chapter 9 was regularily refereced in the production of the charts in assignments 3, 5 and 9.
 
 ## Author
 
