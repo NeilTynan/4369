@@ -4,7 +4,15 @@ This README has been written with [GitHub's documentation on README's] (https://
 
 ## About this Project
 
-This repository contains my weekly assignments for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. The repository for the big project for 4369 can be found here: https://github.com/NeilTynan/4369_project
+This repository contains my weekly assignments for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. It contains the work associated with four assignments, each of which is contained in their own folder. These tasks associated with these assignements include:
+- Examining Met Eireann weather data and building a chart based on the data (assigment 2)
+- Building a pie chart out of sample data (assignment 3)
+- Simulating a game of Risk (assignment 5)
+- Building a pie chart out of a email domain database (assignment 6)
+
+The other repositiories for this course can be found at
+- Big Project folder: https://github.com/NeilTynan/PFDA-project
+- Course Work folder: https://github.com/NeilTynan/PFDA-mywork
 
 ## Use of this Project
 
